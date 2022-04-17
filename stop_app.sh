@@ -1,0 +1,10 @@
+fuser -n tcp -k 8080
+fuser -n tcp -k 50000
+fuser -n tcp -k 50003
+fuser -n tcp -k 50004
+fuser -n tcp -k 50005
+fuser -n tcp -k 50006
+fuser -n tcp -k 50007
+fuser -n tcp -k 50008
+fuser -n tcp -k 50009
+fuser -n tcp -k 50010
